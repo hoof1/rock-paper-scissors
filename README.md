@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm hoof</h1>
-<h3 align="center">begginer in python</h3>
 
 - 🌱 I’m currently learning **python**
 
